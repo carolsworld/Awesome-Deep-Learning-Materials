@@ -36,9 +36,6 @@ Dynamic Vision and Learning Group
 https://dvl.in.tum.de/teaching/
 
 
-## A list of free deep learning training courses
-
-
 ## Books and respective codes
 
 Mindmap and Cheatsheet by Daniel Martinez
