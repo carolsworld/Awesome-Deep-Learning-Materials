@@ -40,6 +40,10 @@ https://dvl.in.tum.de/teaching/
 
 
 ## Books and respective codes
+
+Mindmap and Cheatsheet by Daniel Martinez
+https://github.com/dformoso/deeplearning-mindmap
+
 周志华《机器学习》阅读笔记
 https://github.com/familyld/Machine_Learning
 https://github.com/fengdu78/deeplearning_ai_books
