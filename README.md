@@ -50,10 +50,15 @@ https://www.coursera.org/learn/machine-learning
 https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 https://mooc.study.163.com/university/deeplearning_ai#/c
 
-Deep Learning with Python, 2nd Edition (Manning Publications).
+Deep Learning with Python, 2nd Edition (Manning Publications)
 This repository contains Jupyter notebooks implementing the code samples found in the book Deep Learning with Python.
 https://github.com/fchollet/deep-learning-with-python-notebooks
 
+Courses by Laurence Moroney
+https://github.com/lmoroney/mlday-tokyo
+https://github.com/lmoroney/dlaicourse
+https://github.com/lmoroney/tfbook
+https://github.com/lmoroney/odmlbook
 
 ## A list of paid deep learning training courses
 
